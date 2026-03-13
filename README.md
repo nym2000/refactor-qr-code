@@ -31,7 +31,7 @@ It may make more sense to utilize custom CSS when there is a very specific look 
 Bootstrap is great and has more to offer than what I explored via this assignment. I do find myself more comfortable with traditional CSS since that is what I have been familiar with but I believe strongly that once I have a better grasp of the syntax, my preference will change.
 
 ### Continued development
-I see myself using Frontend Mentor more in the future.
+I see myself using Bootstrap more in the future for practice.
 
 ### Useful resources
 - Bootstrap Official Documentation - (https://getbootstrap.com/docs/5.3/getting-started/introduction/) - This was a must-have resource for this lab. I used this extensively because I was not familiar with the syntax of bootstrap at all.
